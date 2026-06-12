@@ -40,3 +40,36 @@ bottom
 
 greateful[^1]
 [^1]:thankful
+
+
+- [] option 1
+- [] option 2
+- [] option 3
+
+
+aws means
+-[] amozon web service
+-[] amozon web storage
+-[] amzon web severcies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
