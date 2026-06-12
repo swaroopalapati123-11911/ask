@@ -1,2 +1,11 @@
 # ask
-summer online intership repositry
+
+*italic*
+** bold **
+***italic +bold***
+~~strike~~
+swarup
+this is the `git commands` markdown
+```
+swarup kumar
+```
