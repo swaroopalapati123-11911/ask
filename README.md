@@ -1,11 +1,11 @@
 # ask
 
-*italic*
-** bold **
-***italic +bold***
-~~strike~~
+#*italic*
+##** bold **
+###***italic +bold***
+####~~strike~~
 swarup
-this is the `git commands` markdown
-```
+#####this is the `git commands` markdown
+######```
 swarup kumar
 ```
