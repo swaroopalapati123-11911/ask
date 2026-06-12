@@ -62,10 +62,10 @@ table
 |ask|cse|01|
 
 
-first line\
+first line
 second line
 
-
+😴
 
 
 
