@@ -48,9 +48,9 @@ greateful[^1]
 
 
 aws means
-- [ x ] amozon web service
-- [   ] amozon web storage
-- [   ] amzon web severcies
+- [x] amozon web service
+- [ ] amozon web storage
+- [ ] amzon web severcies
 
 
 
