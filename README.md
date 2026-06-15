@@ -58,7 +58,7 @@ table
 |name|college|department|
 |---|---|---|
 |swarup|krishna|cloud|
-|----|---|---|
+|---|---|---|
 |ask|cse|01|
 
 
