@@ -32,7 +32,7 @@ segments = []
 # Score display
 pen = turtle.Turtle()
 pen.speed(0)
-pen.color("white")
+pen.color("red")
 pen.penup()
 pen.hideturtle()
 pen.goto(0, 260)
